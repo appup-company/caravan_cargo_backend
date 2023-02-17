@@ -1,0 +1,7 @@
+/venv/lib/*
+/uploadfiles/
+
+# Only for Development only
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
